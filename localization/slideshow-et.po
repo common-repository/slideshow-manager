@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-manager\n"
+"POT-Creation-Date: 2013-01-09 02:26+0200\n"
+"PO-Revision-Date: 2013-01-09 02:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\cleanWP\\wp-content\\plugins"
+"\\slideshow-manager\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\cleanWP\\wp-content\\plugins"
+"\\slideshow-manager\n"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:154
+msgid ""
+"Are you sure you want to delete this gallery tab and all of the contents?"
+msgstr ""
+"Oled sa kindel, et tahad kustutada galerii vahekaardi ja selles sisalduva "
+"info?"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:162
+msgid "Please enter the name for a new gallery tab"
+msgstr "Palun sisesta uue slideshow vahekaardi nimi"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:162
+msgid "New tab"
+msgstr "Uus galerii"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:170
+msgid "Are you sure you want to delete this picture?"
+msgstr "Oled sa kindel, et soovid pilti kustutada?"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:273
+msgid "Wrong file type!"
+msgstr "Vale faili tüüp!"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:282
+msgid "The picture you uploaded is too small!"
+msgstr "Üles laetud pilt on liiga väike"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:307
+msgid "Image uploaded successfully"
+msgstr "Pilt edukalt üles laetud"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:332
+msgid "Gallery successfully deleted!"
+msgstr "Galerii edukalt kustutatud!"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:377
+msgid "Thumbnail"
+msgstr "Ikoon"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:378
+msgid "Caption and link address"
+msgstr "Pildi kirjeldus ja lingi aadress"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:391
+msgid "Upload"
+msgstr "Lae üles"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:413
+msgid "Update"
+msgstr "Uuenda"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:416
+msgid "Delete"
+msgstr "Kustuta"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:427
+msgid "Slideshow Settings"
+msgstr "Slideshow Seaded"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:434
+msgid "Slide transition effect"
+msgstr "Slaidide ülemineku effekt"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:446
+msgid "Delay between slides"
+msgstr "Viivitus slaidide vahel"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:447
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:524
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:542
+msgid "In milliseconds"
+msgstr "Millisekundites"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:451
+msgid "Enable navigation"
+msgstr "Luba navigatsioonimenüü"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:458
+msgid "Pause slideshow on hover"
+msgstr "Peata slideshow hiirega üle liikudes"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:467
+msgid "Advanced Settings"
+msgstr "Täpsemad seaded"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:467
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:562
+msgid "Show"
+msgstr "Näita"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:471
+msgid "Slideshow width"
+msgstr "Slideshow laius"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:472
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:477
+msgid "In pixels"
+msgstr "Pixlites"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:476
+msgid "Slideshow height"
+msgstr "Slideshow kõrgus"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:481
+msgid "I want to add slider.js manually"
+msgstr "Lisan slider.js faili ise"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:488
+msgid "I want to add slider.css manually"
+msgstr "Lisan slider.css faili ise"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:495
+msgid "Disable on handheld devices"
+msgstr "Keela mobiilsetel seadmetel"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:497
+msgid "Disable slideshow on handheld devices such as mobiles and tablets"
+msgstr "Keela slideshow mobiilidele ja tabletitel"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:503
+msgid "Squares per width"
+msgstr "Kaste pikkuse kohta"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:506
+msgid "Setting these too high might affect the performance on older devices"
+msgstr "Liiga suur arv võib vanadel seadmetel probleeme tekitada"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:512
+msgid "Squares per height"
+msgstr "Kaste laiuse kohta"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:521
+msgid "Delay beetwen squares"
+msgstr "Viivitus slaidide vahel"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:530
+msgid "Title's opacity"
+msgstr "Pealkirja läbipaistvus"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:533
+msgid "Minimum 0 (transparent), maximum 1.0"
+msgstr "Miinimum 0 (läbipaistev), maksimum 1.0"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:539
+msgid "Speed of title appereance"
+msgstr "Pealkirja ilmumise kiirus"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:549
+msgid "Delete active gallery tab"
+msgstr "Kustuta aktiivne galerii vahekaart"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:552
+msgid "This will delete currently active gallery tab and all of its contents"
+msgstr "Kustutab hetkel aktiivse galerii vahekaardi ja selle sisu"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:559
+msgid "Save Settings"
+msgstr "Salvesta seaded"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:562
+msgid "How to use"
+msgstr "Kuidas kasutada"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:567
+msgid "Use as a shortcode:"
+msgstr "Kasuta shortcode:"
+
+#: C:\xampp\htdocs\cleanWP\wp-content\plugins\slideshow-manager/slideshow.php:572
+msgid "Or as a function:"
+msgstr "Või funktsioonina:"
